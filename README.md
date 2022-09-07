@@ -1,5 +1,5 @@
 # Applications-of-Computer-Vision
-Hand Gesture recognition for human comuputer Interaction
+Human comuputer Interaction using Hand Gesture recognition.
 
 
 HAND TRACKER MODULE
